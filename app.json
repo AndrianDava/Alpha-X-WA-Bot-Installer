@@ -1,5 +1,5 @@
 {
-    "name": "Alpha-X-Whatsapp-User-Bot", 
+    "name": "X TKJ 1 Bot", 
     "description": "🚀 Alpha-X project is bot for whatsapp, With enjoyable things and fun to use whatsapp 😉 | World first fully customizable bot for WhatsApp.",
     "logo": "https://telegra.ph/file/c265e654e3ec87c78d984.jpg",
     "keywords": ["whatsapp", "userbot", "Asena", "WhatsAsena", "bot", "api", "ai", "alpha", "node.js", "fb", "wtzp", "userbot", "insta", "srilanka", "keywords", "team"],
@@ -34,7 +34,7 @@
         "CAPTION": {
             "description": "Customizable CAPTION Message! Type a caption for bot medias.",
             "required": false,
-            "value": "🛸 ᴄʀᴇᴀᴛᴇᴅ ʙʏ ᴀʟᴘʜᴀ-x-ᴡᴀ-ʙᴏᴛ © 2022 🔧"
+            "value": "🛸 Create By Andre © 2022 🔧"
         },
         "EXTRA_MENU_TITLE": {
             "description": "Customizable EXTRA MENU TITLE! Type a titile for show under the commands list menu.",
