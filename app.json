@@ -34,7 +34,7 @@
         "CAPTION": {
             "description": "Customizable CAPTION Message! Type a caption for bot medias.",
             "required": false,
-            "value": "🛸 ᴄʀᴇᴀᴛᴇᴅ ʙʏ ᴀʟᴘʜᴀ-x-ᴡᴀ-ʙᴏᴛ © 2022 🔧"
+            "value": "🛸 ᴄʀᴇᴀᴛᴇᴅ ʙʏ ANDRE SCAN BY EGI SAPUTRA © 2022 🔧"
         },
         "EXTRA_MENU_TITLE": {
             "description": "Customizable EXTRA MENU TITLE! Type a titile for show under the commands list menu.",
